@@ -1,0 +1,3 @@
+import { Howl } from "howler";
+const ambient = new Howl({ src: ["/ambient.mp3"], loop: true, volume: 0.45 });
+ambient.play();

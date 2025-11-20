@@ -1,0 +1,33 @@
+{
+  "name": "Dharani S",
+  "role": "Frontend Developer & Designer",
+  "education": "B.Tech Information Technology (2022–2026)",
+  "skills": ["React", "Node.js", "TailwindCSS", "JavaScript", "Python", "MongoDB"],
+  "projects": [
+    {
+      "name": "E-commerce Website",
+      "description": "A React and Firebase-based platform with Razorpay integration for payments.",
+      "tech": ["React", "Firebase", "Razorpay", "TailwindCSS"],
+      "link": "https://dharanis22102006-afk.github.io/E-commerce-website/"
+    },
+    {
+      "name": "Mental Health Support Platform",
+      "description": "A MERN-based platform offering anonymous mental health discussions and AI chat support.",
+      "tech": ["MERN", "Express", "MongoDB", "Node.js"],
+      "link": "https://github.com/dharanis22102006-afk/Mental-Health-Platform"
+    },
+    {
+      "name": "Personal Portfolio Website",
+      "description": "An animated React portfolio showcasing my skills, projects, and digital twin.",
+      "tech": ["React", "Framer Motion", "TailwindCSS"],
+      "link": "https://dharanis22102006-afk.github.io/"
+    }
+  ],
+  "contact": {
+    "email": "dharanis22102006@example.com",
+    "phone": "+91 98765 43210",
+    "linkedin": "https://linkedin.com/in/dharanis22102006",
+    "github": "https://github.com/dharanis22102006-afk"
+  },
+  "personality": "Friendly, curious, confident, creative and tech-driven"
+}
